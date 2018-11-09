@@ -1,0 +1,21 @@
+/* okr详情评论 */
+
+.comment{
+        /* border:1px solid black;  */
+        height: 100%;
+        width: 610px;
+        background-color: #FFFFFF;
+        border-radius: 4px;
+        margin-top: 16px;
+        float: left;
+}
+
+.comment-title{
+        border:1px solid red;
+        height: 40px;
+}
+
+.comment-title>a{
+        font-size:16px;
+        color:rgba(51,51,51,1);
+}

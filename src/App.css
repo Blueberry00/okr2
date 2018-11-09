@@ -1,0 +1,28 @@
+/* 整个页面 */
+
+html,
+body{
+background-color: #ECEFF3;
+}
+
+.areaTwo{
+  /* border:10xp solid red; */
+  width: 920px;
+  margin-left: 60px;
+  margin: 0 auto;
+}
+
+.areaThree{
+  /* border:1px solid red; */
+  height: 100%;
+  width: 610px;
+  margin-top: 16px;
+  float: left;
+}
+
+.areaFour{
+  height: 100%;
+  width: 610px;
+  margin-top: 16px;
+  float: left;
+}

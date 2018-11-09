@@ -1,0 +1,11 @@
+/*  右边相关内容栏 */
+
+.relevant{
+    /* border:1px solid red; */
+    width: 296px;
+    height: 496px;
+    background: rgba(255, 255, 255, 1);
+    border-radius: 4px;
+    float: right;
+    margin-top: 16px;
+}
